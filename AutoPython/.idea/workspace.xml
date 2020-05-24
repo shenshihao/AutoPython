@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practise/function/a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/function/function_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/function/function_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/function/function_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/function/function_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/function/function_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/function/function_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/function/function_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practise/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practise/readme.txt" afterDir="false" />
-    </list>
+    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590312230659</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="新增加函数--20200524">
+      <created>1590321268202</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590321268202</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -319,7 +315,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="日常自动化python学习--20200523" />
     <MESSAGE value="新增加列表--20200523" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增加列表--20200523" />
+    <MESSAGE value="新增加函数--20200524" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增加函数--20200524" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
