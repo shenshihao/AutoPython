@@ -1,5 +1,4 @@
 import os
-import shutil
 
 print("该实例是比较两个文件夹的内容差异的，但是会移除比较文件夹的内容")
 data1_path = "../AutoComareConf"

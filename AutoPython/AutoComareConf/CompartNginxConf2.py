@@ -11,7 +11,7 @@ except:
 
 def readfile(f):
     fileopen = open(f, 'rb')
-    # 这里对字符串进行了decode处理，否则会出现字符串前面加b·的情况
+    # 这里对字符串进行了decode处理，否则会出现字符串前面加b·的情况，python3读取文件的格式默认为byte二进制格式
     text = fileopen.read().decode('utf-8').splitlines()
     fileopen.close()
     return text

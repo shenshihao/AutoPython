@@ -1,3 +1,3 @@
 import os
 
-os.system("./hello,sh")
+os.system("./hello.sh")

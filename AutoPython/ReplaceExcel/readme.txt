@@ -1,0 +1,3 @@
+1.XlsTransXlsx.py  针对excel中xls后缀的格式转换成xlsx格式的
+2.RepExcelForXlsx.py  替换xlsx格式的excel，比如将excel中所有的2018全部替换成2019
+3.XlsxTransXls2.py  针对excel中xls后缀的格式转换成xlsx格式的
