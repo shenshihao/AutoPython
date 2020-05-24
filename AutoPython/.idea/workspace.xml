@@ -1,35 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="新增加列表--20200523">
-      <change afterPath="$PROJECT_DIR$/AutoComareConf/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AutoComareConf2/2222" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/CharacterSet/CharacterSet1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/FileOperate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/FileOperate2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/FileOperate3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/FileOperate4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/FileOperate5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/FileOperate6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/ProgressBar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/YesterDay" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/YesterDay2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/YesterDay3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/readme" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/FileOperate/yesterDay3.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyExecShell/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RenameFileSuffix/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceExcel/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceQuality/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SmtpLib01/readme.txt" afterDir="false" />
+    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practise/function/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/function/function_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/function/function_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/function/function_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/function/function_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/function/function_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/function/function_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/function/function_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoComareConf/CompareFolder.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoComareConf/CompareFolder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoComareConf/CompareFolders2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoComareConf/CompareFolders2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoComareConf/CompartNginxConf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoComareConf/CompartNginxConf2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyExecShell/AutoExecShell.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyExecShell/AutoExecShell.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReplaceExcel/ExcelTransApplication.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReplaceExcel/XlsxTransXls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ReplaceExcel/XlsxTransXls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practise/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Practise/readme.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +45,8 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practise/function" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -72,11 +54,11 @@
       <recent name="D:\project\AutoPython" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\AutoPython\Practise\function" />
       <recent name="D:\project\AutoPython" />
       <recent name="D:\project\AutoPython\Practise\FileOperate" />
       <recent name="D:\project\AutoPython\ReplaceExcel" />
       <recent name="D:\project\AutoPython\ReplaceExcel\Finished" />
-      <recent name="D:\project\AutoPython\ServiceQuality" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -91,8 +73,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ServiceQuality2">
-    <configuration name="AutoExecBat1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.function_6">
+    <configuration name="function_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyExecShell" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyExecShell/AutoExecBat1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/function/function_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CompartNginxConf2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="function_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,32 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutoComareConf" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoComareConf/CompartNginxConf2.py" />
-      <option name="PARAMETERS" value="nginx.conf.v1 nginx.conf.v2" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ServiceQuality1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutoPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ServiceQuality" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServiceQuality/ServiceQuality1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/function/function_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ServiceQuality2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="function_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ServiceQuality" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServiceQuality/ServiceQuality2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/function/function_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="function_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +145,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutoComareConf" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutoComareConf/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/function/function_5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutoPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/function" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/function/function_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,19 +180,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.CompartNginxConf2" />
-      <item itemvalue="Python.demo" />
-      <item itemvalue="Python.AutoExecBat1" />
-      <item itemvalue="Python.ServiceQuality1" />
-      <item itemvalue="Python.ServiceQuality2" />
+      <item itemvalue="Python.function_2" />
+      <item itemvalue="Python.function_3" />
+      <item itemvalue="Python.function_4" />
+      <item itemvalue="Python.function_5" />
+      <item itemvalue="Python.function_6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ServiceQuality2" />
-        <item itemvalue="Python.ServiceQuality1" />
-        <item itemvalue="Python.AutoExecBat1" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.CompartNginxConf2" />
+        <item itemvalue="Python.function_6" />
+        <item itemvalue="Python.function_5" />
+        <item itemvalue="Python.function_4" />
+        <item itemvalue="Python.function_3" />
+        <item itemvalue="Python.function_2" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +256,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590239645511</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="新增加列表--20200523">
+      <created>1590312149060</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590312149060</updated>
+    </task>
+    <task id="LOCAL-00009" summary="新增加列表--20200523">
+      <created>1590312230659</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590312230659</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -13,4 +13,7 @@
 
 4.CarShopping。py 简易的购物车实现功能，但是for循环较多，比较low
 5.ThreeLevelDictionary.py 类似于三级菜单的效果
+6.快捷键pycharm ctrl+/表示多行注释  Ctrl + Shift + F 表示全局搜索功能
+7.pass表示一个占位符，保证函数不报错，保证函数结构暂时正确
+
 
