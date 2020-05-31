@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practise/Decorator/decorator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Decorator/decorator2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Decorator/decorator3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/Decorator/decorator高潮版.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -336,7 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590327619401</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="新增加函数--20200524">
+      <created>1590910931553</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590910931554</updated>
+    </task>
+    <task id="LOCAL-00018" summary="新增加生成器--20200531">
+      <created>1590911099932</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590911099932</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,7 +395,8 @@
     <MESSAGE value="新增加列表--20200523" />
     <MESSAGE value="新增加函数--20200525" />
     <MESSAGE value="新增加函数--20200524" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增加函数--20200524" />
+    <MESSAGE value="新增加生成器--20200531" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增加生成器--20200531" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -480,27 +489,27 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Practise/Decorator/decorator3.py</url>
-          <line>18</line>
+          <line>20</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Practise/Decorator/decorator3.py</url>
-          <line>19</line>
+          <line>21</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Practise/Decorator/decorator3.py</url>
-          <line>20</line>
+          <line>22</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Practise/Decorator/decorator3.py</url>
-          <line>21</line>
+          <line>23</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Practise/Decorator/decorator3.py</url>
-          <line>26</line>
+          <line>31</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
       </breakpoints>
