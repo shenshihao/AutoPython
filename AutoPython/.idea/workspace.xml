@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="" />
+    <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Practise/socket/socket1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise/socket/socket2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/GetSystemBigFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/zmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/CrazyMoniter_Z.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/xiaoniu/s1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +31,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -34,16 +42,16 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Practise/Decorator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CrazyMoniter_Z" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\AutoPython\Practise\Generator" />
       <recent name="D:\project\AutoPython\Practise\Decorator" />
       <recent name="D:\project\AutoPython\Practise\function" />
       <recent name="D:\project\AutoPython" />
       <recent name="D:\project\AutoPython\Practise\FileOperate" />
-      <recent name="D:\project\AutoPython\ReplaceExcel" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\project\AutoPython\ReplaceExcel\Finished" />
@@ -62,8 +70,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decorator高潮版">
-    <configuration name="ServiceQuality1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.socket2">
+    <configuration name="SendEmail3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ServiceQuality" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SmtpLib01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ServiceQuality/ServiceQuality1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SmtpLib01/SendEmail3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator高潮版" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/Decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/Decorator/decorator高潮版.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="socket1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/Decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/socket" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/Decorator/decorator1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/socket/socket1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="socket2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/Decorator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/socket" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/Decorator/decorator3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/socket/socket2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="zmail" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutoPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +184,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practise/function" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/system" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practise/function/function_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/system/zmail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,19 +199,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.ServiceQuality3" />
-      <item itemvalue="Python.function_10" />
-      <item itemvalue="Python.ServiceQuality1" />
-      <item itemvalue="Python.decorator1" />
-      <item itemvalue="Python.decorator3" />
-      <item itemvalue="Python.decorator高潮版" />
+      <item itemvalue="Python.zmail" />
+      <item itemvalue="Python.SendEmail3" />
+      <item itemvalue="Python.download" />
+      <item itemvalue="Python.socket1" />
+      <item itemvalue="Python.socket2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.decorator高潮版" />
-        <item itemvalue="Python.decorator3" />
-        <item itemvalue="Python.decorator1" />
-        <item itemvalue="Python.ServiceQuality1" />
-        <item itemvalue="Python.function_10" />
+        <item itemvalue="Python.socket2" />
+        <item itemvalue="Python.socket1" />
+        <item itemvalue="Python.download" />
+        <item itemvalue="Python.zmail" />
+        <item itemvalue="Python.SendEmail3" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +352,21 @@
       <option name="project" value="LOCAL" />
       <updated>1590911099932</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="新增加生成器--20200531">
+      <created>1590911161252</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590911161252</updated>
+    </task>
+    <task id="LOCAL-00020" summary="新增加生成器--20200531">
+      <created>1590932099068</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590932099068</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -511,6 +533,51 @@
           <url>file://$PROJECT_DIR$/Practise/Decorator/decorator3.py</url>
           <line>31</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Practise/Generator/generator1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
