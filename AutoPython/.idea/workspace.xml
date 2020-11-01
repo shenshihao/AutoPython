@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Practise/socket/socket1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practise/socket/socket2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system/GetSystemBigFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system/download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system/zmail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/CrazyMoniter_Z.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/xiaoniu/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/Selinux的关闭" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/yum源优化" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/命令提示符优化" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/服务器防火墙运行状态建议" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/系统乱码优化" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/系统信息查看方法" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/系统综合架构/架构的基本组成" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CrazyMoniter_Z/xiaoniu/s1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

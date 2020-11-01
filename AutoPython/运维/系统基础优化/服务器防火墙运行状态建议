@@ -1,0 +1,22 @@
+建议开启
+1.服务器可以被外网访问(公网，外网ip)
+centos7中：
+systemctl start firewalld.service
+centos6中：
+/etc/init.d/iptables start
+
+建议关闭
+1.服务器可以被内部访问
+2.服务器处于高并发状态
+centos7中：
+systemctl stop firewalld.service
+centos6中：
+/etc/init.d/iptables stop  #可以使用硬件防火墙进行安全防范
+
+设置防火墙禁止开机自启
+chkconfig iptables off
+
+
+
+
+

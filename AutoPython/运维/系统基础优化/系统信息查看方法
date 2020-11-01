@@ -1,0 +1,16 @@
+1.查看系统名称信息
+cat /etc/redhat-release  # CentOS Linux release 7.6.1810 (Core)
+2.查看系统内核版本
+uname -r  #3.10.0-957.21.3.el7.x86_64
+3.查看系统硬件位数   uname -m   #x86_64
+4.添加普通用户
+useradd newuser
+
+5.修改密码
+passwd newuser
+免交互方式  echo 123456|passwd --stdin newuser
+
+6.查看当前用户
+whoami
+
+

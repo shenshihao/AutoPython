@@ -1,0 +1,16 @@
+
+#重启系统生效
+1.永久关闭selinux
+vi /etc/selinux/config  #SELINUX=enforcing为永久开启
+功能临时关闭 #permissive
+功能永久关闭  #disabled
+
+2.sed "s#SELINUX=enforcing#SELINUX=disabled#g" /etc/selinux/config -i
+grep "=disabled" /etc/selinux/config
+
+
+#立即生效
+setenforce 0  临时关闭
+setenforce 1  永久开启
+
+
