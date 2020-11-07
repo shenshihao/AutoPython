@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc57064-d186-4a21-80bf-9ba75b97ba23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/Selinux的关闭" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/yum源优化" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/命令提示符优化" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/服务器防火墙运行状态建议" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/系统乱码优化" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/运维/系统基础优化/系统信息查看方法" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/运维/系统综合架构/架构的基本组成" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/网络/运维网络基础知识/系统安装后排查网络" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/网络/运维网络基础知识/运维网络基础知识" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/运维/运维面试题/面试题1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/运维/系统综合架构/架构的基本组成" beforeDir="false" afterPath="$PROJECT_DIR$/运维/系统综合架构/架构的基本组成" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CrazyMoniter_Z/CrazyMoniter_Z/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CrazyMoniter_Z/xiaoniu/s1.py" beforeDir="false" />
@@ -364,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590932099068</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="新增加生成器--20201101">
+      <created>1604228607080</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604228607080</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,7 +420,8 @@
     <MESSAGE value="新增加函数--20200525" />
     <MESSAGE value="新增加函数--20200524" />
     <MESSAGE value="新增加生成器--20200531" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增加生成器--20200531" />
+    <MESSAGE value="新增加生成器--20201101" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增加生成器--20201101" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
